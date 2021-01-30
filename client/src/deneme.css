@@ -1,0 +1,23 @@
+body{
+    height: 100vg;
+    width: 100vw;
+}
+
+.bg-name{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.name{
+    background-color: aliceblue;
+    width: 30vw;
+    height: 30vh;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
